@@ -27,3 +27,7 @@
      * #define LORA_DIO1 2
  
   SPI.begin(LORA_SCK, LORA_MISO, LORA_MOSI, LORA_NSS);
+
+
+
+setTxPower.png
