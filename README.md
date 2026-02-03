@@ -17,7 +17,7 @@
      * #define TFT_RES 48
      * #define TFT_BLK 35
 - Динамик пищалка
-- LORAWAN
+- LORAWAN (Отдельный DC-DC)
      * #define LORA_NSS 38
      * #define LORA_DIO0 42
      * #define LORA_RST 36
