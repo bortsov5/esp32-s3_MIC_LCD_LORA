@@ -26,7 +26,9 @@
      * #define LORA_MOSI 1
      * #define LORA_DIO1 2
  
-  SPI.begin(LORA_SCK, LORA_MISO, LORA_MOSI, LORA_NSS);
+SPI.begin(LORA_SCK, LORA_MISO, LORA_MOSI, LORA_NSS);
+
+main2.cpp
 
 <img src="img\setTxPower.png" alt="" width="643">
 
