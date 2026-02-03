@@ -28,5 +28,5 @@
  
   SPI.begin(LORA_SCK, LORA_MISO, LORA_MOSI, LORA_NSS);
 
-<img src="img\setTxPower.png" alt="" width="700">
+<img src="img\setTxPower.png" alt="" width="643">
 
